@@ -32,6 +32,7 @@ function App() {
     }
     <button onClick = {onClick} >{showing ? "Hide" : "Show"}</button>
     <h3>Yes!</h3>
+    <h2>Wow</h2>
   </div>
 
   /*const [counter, setValue] = useState(0);
